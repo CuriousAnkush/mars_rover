@@ -16,8 +16,6 @@ class MarsRobot
     self.settings = settings
   end
 
-
-
   def position
     [x_cordinal, y_cordinal, direction]
   end
